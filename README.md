@@ -1,2 +1,1 @@
-# Test
-Testing GIT
+# Just testing
